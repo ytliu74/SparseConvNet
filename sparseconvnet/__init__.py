@@ -13,7 +13,7 @@ from .classificationTrainValidate import ClassificationTrainValidate
 from .convolution import Convolution
 from .deconvolution import Deconvolution
 from .denseToSparse import DenseToSparse
-from .dropout import Dropout, BatchwiseDropout
+from .dropout import Dropout, BatchwiseDropout, Dropout2d
 from .fullConvolution import FullConvolution, TransposeConvolution
 from .identity import Identity
 from .inputBatch import InputBatch
